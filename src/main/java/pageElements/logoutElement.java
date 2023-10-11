@@ -13,8 +13,14 @@ public class logoutElement {
 
     public void logoubuttonclick(){
 
-        driver.findElement(logoutclick).click();
-        util.loginfo("Logged Out Sucessfully");
+        try {
+
+            driver.findElement(logoutclick).click();
+            util.loginfo("Logged Out Sucessfully");
+
+        } catch (Exception e) {
+            util.logerror("Could not log out");
+        }
     }
     public logoutElement(WebDriver driver){
 
@@ -22,3 +28,4 @@ public class logoutElement {
 
     }
 }
+

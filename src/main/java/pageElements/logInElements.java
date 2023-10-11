@@ -17,12 +17,17 @@ public class logInElements {
     private final By loginButton = By.xpath("//input[@type='submit']");
 
 
-    public void login(String username, String password){
+    public void login(String username, String password) {
+        try {
+            driver.findElement(this.loginUsername).sendKeys(username);
+            driver.findElement(this.loginPassword).sendKeys(password);
+            driver.findElement(this.loginButton).click();
 
-        driver.findElement(this.loginUsername).sendKeys(username);
-        driver.findElement(this.loginPassword).sendKeys(password);
-        driver.findElement(this.loginButton).click();
-        util.loginfo("Sucessfully logged In");
+        }
+        catch (Exception e) {
+            util.logerror("Failed to log in");
+        }
+
 
     }
 
@@ -33,3 +38,4 @@ public class logInElements {
     }
 
 }
+

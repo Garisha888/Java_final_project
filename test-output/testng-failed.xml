@@ -9,7 +9,6 @@
           <include name="transferFunds"/>
           <include name="opennewAccount"/>
           <include name="setup"/>
-          <include name="accountOverviews"/>
         </methods>
       </class> <!-- testScenarios.testcases -->
     </classes>

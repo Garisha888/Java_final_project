@@ -22,8 +22,8 @@ public class logIn {
 
             driver.manage().window().maximize();
             driver.get("https://parabank.parasoft.com/");
-            logelement.login("mydemoacc11","passdemO1");
-            logoutelement.logoubuttonclick();
+            logelement.login("mydemo","passdemO1");
+//            logoutelement.logoubuttonclick();
 
         }
     }

@@ -15,7 +15,7 @@ public class registerAccount {
         driver.manage().window().maximize();
         driver.get("https://parabank.parasoft.com/");
 
-        register.registeraccount("demo","demo","kathmandu","kalanki","Bagmati","1","100","mydemoacc11","passdemO1","passdemO1");
+        register.registeraccount("demo","demo","kathmandu","kalanki","Bagmati","1","100","mydemoacc20","passdemO1","passdemO1");
         register.alloutputtext();
 
 

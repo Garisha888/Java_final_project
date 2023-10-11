@@ -37,7 +37,7 @@ public class TransferFundsElements {
         fromAcc.selectByIndex(1);
         util.waitForElementTObeLocated(driver,10,toAccount);
         Select toAcc = new Select(driver.findElement(By.xpath("//select[@id='toAccountId']")));
-        toAcc.selectByIndex(2);
+        toAcc.selectByIndex(0);
 
 
 

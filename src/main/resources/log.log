@@ -165,3 +165,109 @@
 12:48:03.641 [main] ERROR - First name is required.
 12:48:03.661 [main] ERROR - City is required.
 12:48:05.290 [main] INFO  - Sucessfully logged In
+15:07:07.581 [main] ERROR - First name is required.
+15:07:07.627 [main] ERROR - Last name is required.
+15:07:07.660 [main] ERROR - Address is required.
+15:07:07.697 [main] ERROR - City is required.
+15:07:07.732 [main] ERROR - State is required.
+15:07:07.766 [main] ERROR - Zip Code is required.
+15:07:07.797 [main] ERROR - Social Security Number is required.
+15:07:07.831 [main] ERROR - Username is required.
+15:07:07.858 [main] ERROR - Password is required.
+15:07:07.890 [main] ERROR - Password confirmation is required.
+15:07:10.116 [main] ERROR - First name is required.
+15:07:10.150 [main] ERROR - City is required.
+15:07:10.827 [main] INFO  - Sucessfully logged In
+15:07:52.914 [main] INFO  - Welcome mydemoacc20
+15:07:52.919 [main] INFO  - Your account was created successfully. You are now logged in.
+15:09:02.413 [main] ERROR - First name is required.
+15:09:02.447 [main] ERROR - Last name is required.
+15:09:02.476 [main] ERROR - Address is required.
+15:09:02.503 [main] ERROR - City is required.
+15:09:02.533 [main] ERROR - State is required.
+15:09:02.559 [main] ERROR - Zip Code is required.
+15:09:02.590 [main] ERROR - Social Security Number is required.
+15:09:02.621 [main] ERROR - Username is required.
+15:09:02.650 [main] ERROR - Password is required.
+15:09:02.677 [main] ERROR - Password confirmation is required.
+15:09:06.029 [main] ERROR - First name is required.
+15:09:06.061 [main] ERROR - City is required.
+15:09:07.699 [main] INFO  - Sucessfully logged In
+15:09:14.121 [main] INFO  - Account Opened!
+15:09:14.122 [main] INFO  - Congratulations, your account is now open.
+15:09:19.861 [main] INFO  - Transfer Complete!
+15:09:19.862 [main] INFO  - $100.00 has been transferred from account #22779 to account #22890.
+15:09:22.157 [main] INFO  - Logged Out Sucessfully
+18:25:24.807 [main] ERROR - First name is required.
+18:25:24.831 [main] ERROR - Last name is required.
+18:25:24.851 [main] ERROR - Address is required.
+18:25:24.859 [main] ERROR - City is required.
+18:25:24.876 [main] ERROR - State is required.
+18:25:24.910 [main] ERROR - Zip Code is required.
+18:25:24.926 [main] ERROR - Social Security Number is required.
+18:25:24.942 [main] ERROR - Username is required.
+18:25:24.975 [main] ERROR - Password is required.
+18:25:24.996 [main] ERROR - Password confirmation is required.
+18:25:28.586 [main] ERROR - First name is required.
+18:25:28.606 [main] ERROR - City is required.
+18:25:30.547 [main] INFO  - Sucessfully logged In
+18:27:30.967 [main] ERROR - First name is required.
+18:27:30.995 [main] ERROR - Last name is required.
+18:27:31.005 [main] ERROR - Address is required.
+18:27:31.037 [main] ERROR - City is required.
+18:27:31.056 [main] ERROR - State is required.
+18:27:31.086 [main] ERROR - Zip Code is required.
+18:27:31.110 [main] ERROR - Social Security Number is required.
+18:27:31.122 [main] ERROR - Username is required.
+18:27:31.159 [main] ERROR - Password is required.
+18:27:31.188 [main] ERROR - Password confirmation is required.
+18:27:34.058 [main] ERROR - First name is required.
+18:27:34.071 [main] ERROR - City is required.
+18:27:48.980 [main] INFO  - Account Opened!
+18:27:48.980 [main] INFO  - Congratulations, your account is now open.
+18:27:56.614 [main] INFO  - Logged Out Sucessfully
+18:29:55.939 [main] ERROR - First name is required.
+18:29:55.962 [main] ERROR - Last name is required.
+18:29:55.982 [main] ERROR - Address is required.
+18:29:55.999 [main] ERROR - City is required.
+18:29:56.015 [main] ERROR - State is required.
+18:29:56.032 [main] ERROR - Zip Code is required.
+18:29:56.063 [main] ERROR - Social Security Number is required.
+18:29:56.081 [main] ERROR - Username is required.
+18:29:56.098 [main] ERROR - Password is required.
+18:29:56.115 [main] ERROR - Password confirmation is required.
+18:31:25.183 [main] ERROR - First name is required.
+18:31:25.211 [main] ERROR - Last name is required.
+18:31:25.233 [main] ERROR - Address is required.
+18:31:25.250 [main] ERROR - City is required.
+18:31:25.267 [main] ERROR - State is required.
+18:31:25.285 [main] ERROR - Zip Code is required.
+18:31:25.319 [main] ERROR - Social Security Number is required.
+18:31:25.333 [main] ERROR - Username is required.
+18:31:25.362 [main] ERROR - Password is required.
+18:31:25.383 [main] ERROR - Password confirmation is required.
+18:31:27.868 [main] ERROR - First name is required.
+18:31:27.898 [main] ERROR - City is required.
+18:31:48.699 [main] INFO  - Logged Out Sucessfully
+18:32:54.662 [main] ERROR - First name is required.
+18:32:54.685 [main] ERROR - Last name is required.
+18:32:54.709 [main] ERROR - Address is required.
+18:32:54.731 [main] ERROR - City is required.
+18:32:54.752 [main] ERROR - State is required.
+18:32:54.776 [main] ERROR - Zip Code is required.
+18:32:54.785 [main] ERROR - Social Security Number is required.
+18:32:54.819 [main] ERROR - Username is required.
+18:32:54.835 [main] ERROR - Password is required.
+18:32:54.865 [main] ERROR - Password confirmation is required.
+18:32:56.673 [main] ERROR - First name is required.
+18:32:56.685 [main] ERROR - City is required.
+18:32:58.989 [main] INFO  - Sucessfully logged In
+18:33:01.048 [main] INFO  - Account Opened!
+18:33:01.048 [main] INFO  - Congratulations, your account is now open.
+18:33:06.513 [main] INFO  - Transfer Complete!
+18:33:06.513 [main] INFO  - $100.00 has been transferred from account #43980 to account #43758.
+18:33:08.930 [main] INFO  - Logged Out Sucessfully
+19:23:38.384 [main] INFO  - Sucessfully logged In
+19:23:38.428 [main] ERROR - Not logged out
+19:25:24.918 [main] INFO  - Sucessfully logged In
+19:26:41.617 [main] INFO  - Sucessfully logged In

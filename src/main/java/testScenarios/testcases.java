@@ -50,9 +50,9 @@ public class testcases {
     }
     @Test(priority = 4)
     public void login(){
-        // register.registeraccount("demo","demo","kathmandu","kalanki","Bagmati","1","100","mydemoacc1","passdemO1","passdemO1");
+//         register.registeraccount("demo","demo","kathmandu","kalanki","Bagmati","1","100","mydemoacc88","passdemO1","passdemO1");
 
-        logelement.login("mydemoacc11","passdemO1");
+        logelement.login("mydemoacc88","passdemO1");
 
     }
 
@@ -62,7 +62,7 @@ public class testcases {
 //        logelement.login("mydemoacc11","passdemO1");
         newacc.clickopenNewacc();
         newacc.accountType();
-        newacc.balanceTransferAcoount(2);
+        newacc.balanceTransferAcoount(1);
         newacc.buttonOpenNewAccount();
         newacc.alloutputtext();
 
